@@ -447,7 +447,7 @@
                 ['name' => 'Benny Cards', 'img' => 'bennycards.png', 'url' => 'https://bennycards.com/'],
                 ['name' => 'Agoo Whaps', 'img' => 'agoowhaps.png', 'url' => 'https://acs.agoo.in/'],
                 ['name' => 'Agoo Foods', 'img' => 'agoofoods.png', 'url' => 'https://agoofoods.in/'],
-                ['name' => 'Agoo Dental', 'img' => 'agoodental.png', 'url' => '#']
+                ['name' => 'Agoo Dental', 'img' => 'agooclinic.png', 'url' => 'https://agooclinic.com/']
             ];
             ?>
 
