@@ -5,7 +5,7 @@
     </div>
 
     <div class="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16 items-start">
             <!-- Column 1: Brand -->
             <div class="space-y-6">
                 <!-- Logo -->
@@ -17,6 +17,24 @@
                     Delivering innovative IT solutions that drive growth and digital transformation for businesses
                     worldwide.
                 </p>
+                <div class="space-y-4">
+                    <div class="flex items-center gap-4">
+                        <div
+                            class="w-10 h-10 flex-shrink-0 flex items-center justify-center rounded-full bg-theme text-white text-lg shadow-lg shadow-theme/30">
+                            <i class="fas fa-envelope"></i>
+                        </div>
+                        <a href="mailto:info@agoo.in"
+                            class="text-gray-300 hover:text-theme transition-colors text-sm">info@agoo.in</a>
+                    </div>
+                    <div class="flex items-center gap-4">
+                        <div
+                            class="w-10 h-10 flex-shrink-0 flex items-center justify-center rounded-full bg-theme text-white text-lg shadow-lg shadow-theme/30">
+                            <i class="fas fa-phone"></i>
+                        </div>
+                        <a href="tel:+918903489173" class="text-gray-300 hover:text-theme transition-colors text-sm">+91
+                            89034 89173</a>
+                    </div>
+                </div>
                 <div class="flex gap-4">
                     <a href="https://www.facebook.com/profile.php?id=61567620989858" target="_blank"
                         class="w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-theme text-white transition-all duration-300 transform hover:-translate-y-1">
@@ -89,31 +107,23 @@
             <div>
                 <h3 class="text-xl font-bold font-title mb-8 pb-2 border-b-2 border-theme w-max tracking-wide">Contact
                     Us</h3>
-                <div class="space-y-6">
+                <div class="space-y-5">
                     <div class="flex items-start gap-4">
                         <div
                             class="w-10 h-10 flex-shrink-0 flex items-center justify-center rounded-full bg-theme text-white text-lg shadow-lg shadow-theme/30">
                             <i class="fas fa-location-dot"></i>
                         </div>
-                        <p class="text-gray-300 mt-1 text-sm leading-relaxed">Floor no 103,104, Subash street, Vadasery,
+                        <p class="text-gray-300 text-sm leading-relaxed">Floor no 103,104, Subash street, Vadasery,
                             Nagercoil - 629001, Kanyakumari
                             district, Tamil Nadu, India</p>
                     </div>
-                    <div class="flex items-center gap-4">
+                    <div class="flex items-start gap-4">
                         <div
                             class="w-10 h-10 flex-shrink-0 flex items-center justify-center rounded-full bg-theme text-white text-lg shadow-lg shadow-theme/30">
-                            <i class="fas fa-envelope"></i>
+                            <i class="fas fa-location-dot"></i>
                         </div>
-                        <a href="mailto:info@agoo.in"
-                            class="text-gray-300 hover:text-theme transition-colors text-sm">info@agoo.in</a>
-                    </div>
-                    <div class="flex items-center gap-4">
-                        <div
-                            class="w-10 h-10 flex-shrink-0 flex items-center justify-center rounded-full bg-theme text-white text-lg shadow-lg shadow-theme/30">
-                            <i class="fas fa-phone"></i>
-                        </div>
-                        <a href="tel:+918903489173" class="text-gray-300 hover:text-theme transition-colors text-sm">+91
-                            89034 89173</a>
+                        <p class="text-gray-300 text-sm leading-relaxed">14-124 C, Gandhiji Nagar, Boothapandy,
+                            Velimalai RF, Kanniyakumari, Tamil Nadu, 629852</p>
                     </div>
                 </div>
             </div>
